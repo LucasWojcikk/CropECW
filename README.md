@@ -40,7 +40,7 @@ Open the OSGeo4W Shell and install the necessary libraries:
 
 ### 4. Run the Code
 
-Navigate to the project directory and run the script:
+In OSGeo4W Shell, navigate to the project directory and run the script:
 
   Example:
   
